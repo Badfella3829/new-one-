@@ -4,8 +4,8 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "22801364"))
-API_HASH = environ.get("API_HASH", "38fd13fcb81f612aa703fa63d7dffec8")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
-OWNER = int(os.environ.get("OWNER", "1996039956"))
-ADMINS = (os.environ.get("ADMINS", "1996039956").split())
+API_ID = int(environ.get("API_ID", "28687007"))
+API_HASH = environ.get("API_HASH", "7e7bf71c5b04b79bd3ba36e47ee52486")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7705656330:AAENw2Yd3KOditfdqAuKY463Kijj1Bm9E40")
+OWNER = int(os.environ.get("OWNER", "7534723821"))
+ADMINS = (os.environ.get("ADMINS", "7534723821").split())
